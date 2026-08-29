@@ -1,0 +1,7 @@
+interface:
+  display_name: "对话资产成书"
+  short_description: "把零散长期对话筛选成文章，并按年度目录合并为可收藏的书"
+  default_prompt: "使用 $dialogue-archive-book 继续整理我的对话资产，并在确认收录后生成文章。"
+
+policy:
+  allow_implicit_invocation: true
